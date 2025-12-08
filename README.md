@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **MERN Full Stack ,Reactive-Native ,Shopify**
 
-- 📫 How to reach me **bumble.404.bee@gmail.com**
+- 📫 How to reach me **kumarabinash673@gmail.com**
 
 - 📄 Know about my experiences [https://portfolio-abinash.netlify.app](https://portfolio-abinash.netlify.app)
 
