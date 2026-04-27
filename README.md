@@ -83,6 +83,9 @@ const abinash = {
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=abinash673&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="165" alt="GitHub Stats"/>
+
+<br/>
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abinash673&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" height="165" alt="Top Languages"/>
 
 <br/>
@@ -103,25 +106,6 @@ const abinash = {
 
 ---
 
-## 🔝 Top Contributed Repos
-
-<div align="center">
-
-![Top Contributed Repos](https://github-contributor-stats.vercel.app/api?username=abinash673&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
-</div>
-
----
-
-## ✍️ Dev Quote of the Day
-
-<div align="center">
-
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
----
 
 <div align="center">
 
