@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Abinash%20Kumar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20Shopify%20Expert&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Abinash%20Karmi&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20Shopify%20Expert&descAlignY=55&descSize=18" width="100%"/>
 
 <!-- Typing SVG -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Abinash+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;MERN+Stack+%7C+React+Native+%7C+Shopify;Building+fast%2C+beautiful+web+experiences+%E2%9A%A1" alt="Typing SVG" />
@@ -46,6 +46,9 @@ const abinash = {
 
 ## 💻 Tech Stack
 
+
+<div align="center">
+  
 ### Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -68,6 +71,11 @@ const abinash = {
 ![Shopify](https://img.shields.io/badge/Shopify-%2396bf48.svg?style=for-the-badge&logo=shopify&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+
+</div>
+
+```
 
 ---
 
