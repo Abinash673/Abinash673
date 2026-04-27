@@ -94,17 +94,7 @@ const abinash = {
 
 </div>
 
----
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=abinash673&theme=tokyonight&no-frame=true&no-bg=false&margin-w=6&column=7)
-
-</div>
-
----
 
 
 <div align="center">
