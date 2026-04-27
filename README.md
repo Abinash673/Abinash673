@@ -75,7 +75,6 @@ const abinash = {
 
 </div>
 
-```
 
 ---
 
