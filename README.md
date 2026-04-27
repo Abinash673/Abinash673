@@ -1,18 +1,67 @@
-<h1 align="center">Hi 👋, I'm Abinash</h1>
-<h3 align="center">A passionate Full Stack Developer 🧑‍💻</h3>
+<div align="center">
 
-- 🌱 I’m currently learning **MERN Full Stack ,Reactive-Native ,Shopify**
+# 💫 About Me
 
-- 📫 How to reach me **kumarabinash673@gmail.com**
+## 🚀 About Me
 
-- 📄 Know about my experiences [https://portfolio-abinash.netlify.app](https://portfolio-abinash.netlify.app)
+🔭 I’m currently working on **Shopify theme development** and **headless eCommerce projects**  
+👯 I’m looking to collaborate on **Shopify + React applications**  
+🤝 I’m looking for help with **Shopify Functions & performance optimization**  
+🌱 I’m currently learning **React, Next.js & headless architecture**  
+💬 Ask me about **Shopify Liquid, metafields, custom sections & Storefront API**  
+⚡ Fun fact: I enjoy optimizing websites for **high performance & smooth UX**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/abinashftw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abinashftw" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/abinash-k-83306921b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abinash-k-83306921b" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/nJMDk7Up" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/nJMDk7Up" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
+## 🌐 Connect With Me
+
+<a href="https://discord.gg/bp6WXbns">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/abìnashk">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://x.com/AbinashFTW">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white"/>
+</a>
+
+---
+
+## 💻 Tech Stack
+
+<img src="https://skillicons.dev/icons?i=js,ts,react,redux,python,bash&theme=dark" />
+
+---
+
+## 📊 GitHub Stats
+
+<img src="https://github-readme-stats.shion.dev/api?username=abinash673&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://streak-stats.demolab.com/?user=abinash673&theme=tokyonight&hide_border=true" width="48%" />
+
+<br/>
+
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=abinash673&theme=tokyonight&hide_border=true&layout=compact" width="48%" />
+
+---
+
+## 🏆 GitHub Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=abinash673&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8" />
+
+---
+
+## ✍️ Dev Quote
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+
+---
+
+## 🔝 Top Contributions
+
+<img src="https://github-contributor-stats.vercel.app/api?username=abinash673&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
+
+---
+
+<img src="https://komarev.com/ghpvc/?username=abinash673&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+
+</div>
